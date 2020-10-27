@@ -1,0 +1,2 @@
+# Energy-Efficient-Routing-Protocol
+Sensors are regarded as significant components of electronic devices. In most applications of wireless sensor networks (WSNs), important and critical information must be delivered to the sink in a multi-hop and energy-efficient manner. Inasmuch as the energy of sensor nodes is limited, prolonging network lifetime in WSNs is considered to be a critical issue. I have worked on some routing protocols and compared them on basis of efficiency and network life.
